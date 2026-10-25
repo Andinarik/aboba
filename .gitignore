@@ -1,0 +1,24 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Файлы редакторов
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Медиафайлы (по необходимости)
+*.mp4
+*.mkv
+*.mp3
+*.wav
